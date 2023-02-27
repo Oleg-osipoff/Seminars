@@ -7,5 +7,3 @@ start
 ** ghj
 
 opkpoj]
-
-probuem
