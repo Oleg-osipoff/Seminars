@@ -7,3 +7,5 @@ start
 ** ghj
 
 opkpoj]
+
+proverka
